@@ -87,7 +87,7 @@ Los dos botones ubicados en la parte inferior permiten **navegar entre espacios*
 ## 🖼️ Diagrama de conexión — Arduino Uno
 
 <p align="center">
-  <img src="assets/uno.png" width="650">
+  <img src="../assets/uno.png" width="650">
 </p>
 
 > Este mismo esquema aplica para **Arduino Nano y Arduino Mega**, respetando el mismo número de pin.
@@ -95,13 +95,13 @@ Los dos botones ubicados en la parte inferior permiten **navegar entre espacios*
 ## 🖼️ Diagrama de conexión — Arduino Nano
 
 <p align="center">
-  <img src="assets/nano.png" width="650">
+  <img src="../assets/nano.png" width="650">
 </p>
 
 ## 🖼️ Diagrama de conexión — Arduino Mega
 
 <p align="center">
-  <img src="assets/mega.png" width="650">
+  <img src="../assets/mega.png" width="650">
 </p>
 
 ---
