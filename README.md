@@ -104,7 +104,7 @@ Cosmic Deck evoluciona hacia un **Ecosistema Híbrido de Productividad**:
 - Sistema de módulos y expansión
 
 🎥 **Video: Visión del proyecto**  
-👉 https://youtube.com/VIDEO_VISION_AQUI
+👉 https://youtu.be/4u1hUAh1izE
 
 > ⚠️ Estas funciones corresponden a versiones futuras y no son necesarias para usar la Community Edition hoy.
 
