@@ -106,6 +106,11 @@ Selecciona el **Action Type** que deseas:
 
 > Al seleccionar una acción, aparecerán las opciones correspondientes.
 
+   
+<p align="center">
+  <img src="/assets/cosmic_deck_button.gif" width="750">
+</p>
+
 ---
 
 ## ▶️ Paso 6 — Prueba el botón
