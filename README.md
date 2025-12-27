@@ -93,7 +93,7 @@ La aplicación Cosmic Deck permite:
 
 <!-- IMAGEN / RENDER DEL PROTOTIPO PRO -->
 <p align="center">
-  <img src="assets/images/pro/cosmic-pad-pro-render.png" width="650">
+  <img src="assets/cosmic_pad.JPG" width="600">
 </p>
 
 Cosmic Deck evoluciona hacia un **Ecosistema Híbrido de Productividad**:
