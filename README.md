@@ -7,9 +7,10 @@
 
 <!-- IMAGEN PRINCIPAL / HERO -->
 <!-- Reemplaza el archivo por una imagen real del proyecto -->
+<!--
 <p align="center">
   <img src="assets/images/hero/cosmic-deck-hero.png" width="700">
-</p>
+</p>-->
 
 **Cosmic Deck** es un proyecto de productividad que busca unir dos mundos que hoy están rotos:
 
@@ -48,7 +49,7 @@ Cosmic Deck nace como un **puente entre software inteligente y hardware flexible
 
 <!-- IMAGEN COMMUNITY / CONEXIONES -->
 <p align="center">
-  <img src="assets/images/community/arduino-wiring.png" width="600">
+  <img src="assets/arduino_firmware.gif" width="600">
 </p>
 
 La versión Community está pensada para makers, estudiantes y usuarios técnicos.
@@ -78,7 +79,7 @@ La versión Community está pensada para makers, estudiantes y usuarios técnico
 
 <!-- IMAGEN UI DE LA APP -->
 <p align="center">
-  <img src="assets/images/app/app-ui.png" width="700">
+  <img src="assets/cosmic_deck.png" width="700">
 </p>
 
 La aplicación Cosmic Deck permite:
