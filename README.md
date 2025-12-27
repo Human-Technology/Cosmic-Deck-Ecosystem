@@ -168,4 +168,8 @@ Tu feedback es clave para mejorar Cosmic Deck.
 
 ---
 
+## 🛠️ Tecnologias y Recursos usados
+- PySide6 -> [Repositorio Oficial](https://github.com/qtproject/pyside-pyside-setup/tree/dev)
+- Phosphor Icons -> [Web Oficial](https://phosphoricons.com/)
+
 Creado con ❤️ por **José Sánchez** — México  
