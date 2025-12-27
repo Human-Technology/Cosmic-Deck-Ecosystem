@@ -163,8 +163,8 @@ Este proyecto está en BETA.
 Tu feedback es clave para mejorar Cosmic Deck.
 
 - Issues de GitHub
-- Feedback desde la web oficial
-- Comunidad (próximamente)
+- Feedback desde la comunidad
+- Comunidad en Telegram [Haz Clic Aqui](https://t.me/+qKxLbYER3bM4YTJh)
 
 ---
 
