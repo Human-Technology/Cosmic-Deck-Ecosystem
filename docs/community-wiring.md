@@ -5,6 +5,8 @@ Esta guía explica cómo conectar los botones a tu Arduino para usar **Cosmic De
 
 La Community Edition convierte un **Arduino común** en un macro pad funcional con múltiples espacios de trabajo, ideal para productividad, automatización y atajos personalizados.
 
+🔧 Video Sobre el Funcionamiento: https://youtu.be/Pj6zKplLFqY
+
 ---
 
 ## 🔧 Hardware requerido
