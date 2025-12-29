@@ -20,6 +20,7 @@
 La **Community Edition (BETA)** convierte un **Arduino común** en un macro pad funcional y configurable, mientras se construye el camino hacia un ecosistema híbrido más avanzado.
 
 🌐 Web oficial: https://cosmicdeck.algoritmox86.com/
+🔧 Video Sobre el Funcionamiento: https://youtu.be/Pj6zKplLFqY
 
 ---
 
